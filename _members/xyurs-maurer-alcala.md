@@ -1,14 +1,23 @@
 ---
-name: Jane Smith
+name: Xyrus X. Maurer-Alcalá
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+group: active
+affiliation: William & Mary
 aliases:
-  - J. Smith
-  - J Smith
+  - X.X. Maurer-Alcalá
+  - XX Maurer-Alcalá
+  - X.X. Maurer-Alcala
+  - XX Maurer-Alcala
+  - X.X. Alcala
+  - XX Alcala
+pronouns: he/him
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://alcalalab.github.io
+  orcid: 0000-0002-7499-9369
+  email: xxmaureralcala@wm.edu
+  google-scholar: SxrTG9gAAAAJ
+  github: xxmalcala
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
