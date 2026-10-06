@@ -1,209 +1,445 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1101/2025.03.26.645542
+  title: Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity
+    and Taxonomic Blind Spots
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - "Miguel F. Romero-Guti\xE9rrez"
+  - Arianna I. Krinos
+  - Xyrus Maurer-Alcala
+  - John A. Burns
+  - Ramunas Stepanauskas
+  - Tanja Woyke
+  - Frederik Schulz
+  publisher: openRxiv
+  date: '2025-03-26'
+  link: https://doi.org/hcdz5z
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/J.PROTIS.2025.126115
+  title: Characterizing lineage-specific genes in testate lobose amoebae (Arcellinida)
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
+  - Angela K. Jiang
+  - Taylor R. Sehein
+  - Rebecca Gawron
+  - Laura A. Katz
+  - "Xyrus X. Maurer-Alcal\xE1"
+  publisher: Protist
+  date: '2025-09-01'
+  link: https://doi.org/hcmpg9
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MSPHERE.00075-25
+  title: "Genome content reorganization in the non-model ciliate\n               \
+    \     <i>Chilodonella uncinata</i>\n                    : insights into nuclear\
+    \ architecture, DNA content, and chromosome fragmentation during macronuclear\
+    \ development"
+  authors:
+  - Ragib Ahsan
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Laura A. Katz
+  publisher: mSphere
   date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/hcmphb
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1128/MBIO.03916-24
+  title: 'Lost in translation: conserved amino acid usage despite extreme codon bias
+    in foraminifera'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Auden E. Cote-L'Heureux
+  - Elinor G. Sterner
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Laura A. Katz
+  publisher: mBio
+  date: '2025-04-09'
+  link: https://doi.org/hcmphc
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1093/GBE/EVAE239
+  title: Diverse Genome Structures among Eukaryotes May Have Arisen in Response to
+    Genetic Conflict
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Elinor G Sterner
+  - "Auden Cote-L\u2019Heureux"
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Laura A Katz
+  publisher: Genome Biology and Evolution
+  date: '2024-11-01'
+  link: https://doi.org/hcmphd
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1128/MBIO.03379-23
+  title: Foraminifera as a model of eukaryotic genome dynamism
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Caitlin Timmons
+  - Kristine Le
+  - H. B. Rappaport
+  - Elinor G. Sterner
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Susan T. Goldstein
+  - Laura A. Katz
+  publisher: mBio
+  date: '2024-03-13'
+  link: https://doi.org/hcmphf
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1371/JOURNAL.PONE.0291688
+  title: "Somatic genome architecture and molecular evolution are decoupled in \u201C\
+    young\u201D linage-specific gene families in ciliates"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - "Auden Cote-L\u2019Heureux"
+  - Sergei L. Kosakovsky Pond
+  - Laura A. Katz
+  publisher: PLOS ONE
+  date: '2024-01-25'
+  link: https://doi.org/hcmphg
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1371/JOURNAL.PONE.0315635
+  title: "Correction: Somatic genome architecture and molecular evolution are decoupled\
+    \ in \u201Cyoung\u201D linage-specific gene families in ciliates"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - "Auden Cote-L\u2019Heureux"
+  - Sergei L. Kosakovsky Pond
+  - Laura A. Katz
+  publisher: PLOS ONE
+  date: '2024-12-09'
+  link: https://doi.org/hcmphh
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/GBE/EVAE252
+  title: 'TIdeS: A Comprehensive Framework for Accurate Open Reading Frame Identification
+    and Classification in Eukaryotic Transcriptomes'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Eunsoo Kim
+  publisher: Genome Biology and Evolution
+  date: '2024-11-21'
+  link: https://doi.org/g97v5m
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1093/GBE/EVAD194
+  title: "Long-Read\u2013Based Genome Assembly Reveals Numerous Endogenous Viral Elements\
+    \ in the Green Algal Bacterivore <i>Cymbomonas tetramitiformis</i>"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yangtsho Gyaltshen
+  - Andrey Rozenberg
+  - Amber Paasch
+  - John A Burns
+  - Sally Warring
+  - Raegan T Larson
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Joel Dacks
+  - Apurva Narechania
+  - Eunsoo Kim
+  publisher: Genome Biology and Evolution
+  date: '2023-10-26'
+  link: https://doi.org/hcmphj
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CELREP.2022.111263
+  title: A small RNA-guided PRC2 complex eliminates DNA as an extreme form of transposon
+    silencing
+  authors:
+  - Chundi Wang
+  - Therese Solberg
+  - "Xyrus X. Maurer-Alcal\xE1\u202C"
+  - Estienne C. Swart
+  - Feng Gao
+  - Mariusz Nowacki
+  publisher: Cell Reports
+  date: '2022-08-01'
+  link: https://doi.org/hcmphk
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/EMBJ.2022111839
+  title: "Chromatin remodeling is required for sRNA\u2010guided DNA elimination in\
+    \ Paramecium"
+  authors:
+  - Aditi Singh
+  - "Xyrus X Maurer\u2010Alcal\xE1"
+  - Therese Solberg
+  - "Lilia H\xE4u\xDFermann"
+  - Silvan Gisler
+  - Michael Ignarski
+  - Estienne C Swart
+  - Mariusz Nowacki
+  publisher: The EMBO Journal
+  date: '2022-10-11'
+  link: https://doi.org/g5385p
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.YMPEV.2022.107406
+  title: Deciphering phylogenetic relationships in class Karyorelictea (Protista,
+    Ciliophora) based on updated multi-gene information with establishment of a new
+    order Wilbertomorphida n. ord.
+  authors:
+  - Mingzhen Ma
+  - Yuqing Li
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Yurui Wang
+  - Ying Yan
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2022-04-01'
+  link: https://doi.org/hcmphm
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FMICB.2022.785502
+  title: 'How Ciliated Protists Survive by Cysts: Some Key Points During Encystment
+    and Excystment'
+  authors:
+  - Yuqing Li
+  - Yurui Wang
+  - Shijing Zhang
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Ying Yan
+  publisher: Frontiers in Microbiology
+  date: '2022-02-17'
+  link: https://doi.org/hbhf9m
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1261/RNA.079134.122
+  title: Identification of novel, functional, long noncoding RNAs involved in programmed,
+    large-scale genome rearrangements
+  authors:
+  - Sebastian T. Bechara
+  - Lyna E.S. Kabbani
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Mariusz Nowacki
+  publisher: RNA
+  date: '2022-06-09'
+  link: https://doi.org/hcmphn
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PGEN.1010239
+  title: 'Old genes in new places: A taxon-rich analysis of interdomain lateral gene
+    transfer events'
+  authors:
+  - "Auden Cote-L\u2019Heureux"
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Laura A. Katz
+  publisher: PLOS Genetics
+  date: '2022-06-22'
+  link: https://doi.org/hcmphp
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.YMPEV.2022.107546
+  title: Taxon-rich transcriptomics supports higher-level phylogeny and major evolutionary
+    trends in Foraminifera
+  authors:
+  - Roberto Sierra
+  - Florian Mauffrey
+  - Joana Cruz
+  - Maria Holzmann
+  - Andrew J. Gooday
+  - "Xyrus Maurer-Alcal\xE1"
+  - Rabindra Thakur
+  - Mattia Greco
+  - Agnes K.M. Weiner
+  - Laura A. Katz
+  - Jan Pawlowski
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2022-09-01'
+  link: https://doi.org/hcmphq
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/GBE/EVAA185
+  title: Combined Genome and Transcriptome Analyses of the Ciliate Schmidingerella
+    arcuata (Spirotrichea) Reveal Patterns of DNA Elimination, Scrambling, and Inversion
+  authors:
+  - Susan A Smith
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Ying Yan
+  - Laura A Katz
+  - Luciana F Santoferrara
+  - George B McManus
+  publisher: Genome Biology and Evolution
+  date: '2020-09-01'
+  link: https://doi.org/g7m2p3
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/JEU.12788
+  title: "De novo Sequencing, Assembly, and Annotation of the Transcriptome for the\
+    \ Free\u2010Living Testate Amoeba <i>Arcella intermedia</i>"
+  authors:
+  - Giulia M. Ribeiro
+  - "Alfredo L. Porf\xEDrio\u2010Sousa"
+  - "Xyrus X. Maurer\u2010Alcal\xE1"
+  - Laura A. Katz
+  - Daniel J.G. Lahr
+  publisher: Journal of Eukaryotic Microbiology
+  date: '2020-02-12'
+  link: https://doi.org/ghxs7w
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00018-020-03555-2
+  title: Programmed genome rearrangements in ciliates
+  authors:
+  - Iwona Rzeszutek
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Mariusz Nowacki
+  publisher: Cellular and Molecular Life Sciences
+  date: '2020-05-27'
+  link: https://doi.org/hcmphr
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/NYAS.14108
+  title: Evolutionary origins and impacts of genome architecture in ciliates
+  authors:
+  - "Xyrus X. Maurer\u2010Alcal\xE1"
+  - Mariusz Nowacki
+  publisher: Annals of the New York Academy of Sciences
+  date: '2019-05-10'
+  link: https://doi.org/gtnspz
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/MOLBEV/MSZ103
+  title: 'PhyloToL: A Taxon/Gene-Rich Phylogenomic Pipeline to Explore Genome Evolution
+    of Diverse Eukaryotes'
+  authors:
+  - "Mario A Cer\xF3n-Romero"
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Jean-David Grattepanche
+  - Ying Yan
+  - Miguel M Fonseca
+  - L A Katz
+  publisher: Molecular Biology and Evolution
+  date: '2019-05-07'
+  link: https://doi.org/gj82q5
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MBIO.02524-19
+  title: Single-Cell Transcriptomics Reveal a Correlation between Genome Architecture
+    and Gene Family Evolution in Ciliates
+  authors:
+  - Ying Yan
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Rob Knight
+  - Sergei L. Kosakovsky Pond
+  - Laura A. Katz
+  publisher: mBio
+  date: '2019-12-24'
+  link: https://doi.org/hcmphs
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MBIO.01836-17
+  title: "Exploration of the Germline Genome of the Ciliate\n            <i>Chilodonella\
+    \ uncinata</i>\n            through Single-Cell Omics (Transcriptomics and Genomics)"
+  authors:
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Rob Knight
+  - Laura A. Katz
+  publisher: mBio
+  date: '2018-03-07'
+  link: https://doi.org/hcmpht
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/JEU.12422
+  title: 'Nuclear Features of the Heterotrich Ciliate <i>Blepharisma americanum</i>:
+    Genomic Amplification, Life Cycle, and Nuclear Inclusion'
+  authors:
+  - Megan M. Wancura
+  - Ying Yan
+  - Laura A. Katz
+  - "Xyrus X. Maurer\u2010Alcal\xE1"
+  publisher: Journal of Eukaryotic Microbiology
+  date: '2017-06-07'
+  link: https://doi.org/hcmphv
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/GBE/EVY133
+  title: "Twisted Tales: Insights into Genome Diversity of Ciliates Using Single-Cell\
+    \ \u2018Omics"
+  authors:
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Ying Yan
+  - Olivia A Pilling
+  - Rob Knight
+  - Laura A Katz
+  publisher: Genome Biology and Evolution
+  date: '2018-06-26'
+  link: https://doi.org/hcmphw
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/GBE/EVW099
+  title: Nuclear Architecture and Patterns of Molecular Evolution Are Correlated in
+    the Ciliate<i>Chilodonella uncinata</i>
+  authors:
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - Laura A. Katz
+  publisher: Genome Biology and Evolution
+  date: '2016-04-29'
+  link: https://doi.org/f8tm6n
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.YMPEV.2016.03.029
+  title: "Phylogenomics of \u2018Discosea\u2019: A new molecular phylogenetic perspective\
+    \ on Amoebozoa with flat body forms"
+  authors:
+  - Yonas I. Tekle
+  - O. Roger Anderson
+  - Laura A. Katz
+  - "Xyrus X. Maurer-Alcal\xE1"
+  - "Mario Alberto Cer\xF3n Romero"
+  - Robert Molestina
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2016-06-01'
+  link: https://doi.org/f8msbf
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.GDE.2015.10.005
+  title: An epigenetic toolkit allows for diverse genome architectures in eukaryotes
+  authors:
+  - "Xyrus X Maurer-Alcal\xE1"
+  - Laura A Katz
+  publisher: Current Opinion in Genetics &amp; Development
+  date: '2015-12-01'
+  link: https://doi.org/f74zw9
+  orcid: 0000-0002-7499-9369
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/JEU.12109
+  title: Characterization of the Life Cycle and Heteromeric Nature of the Macronucleus
+    of the Ciliate <i>Chilodonella uncinata</i> Using Fluorescence Microscopy
+  authors:
+  - Laure Bellec
+  - "Xyrus X. Maurer\u2010Alcala"
+  - Laura A. Katz
+  publisher: Journal of Eukaryotic Microbiology
+  date: '2014-04-29'
+  link: https://doi.org/f522tn
+  orcid: 0000-0002-7499-9369
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +455,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +471,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
