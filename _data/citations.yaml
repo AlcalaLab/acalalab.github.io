@@ -15,6 +15,7 @@
   date: '2025-03-26'
   link: https://doi.org/hcdz5z
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.PROTIS.2025.126115
@@ -29,6 +30,7 @@
   date: '2025-09-01'
   link: https://doi.org/hcmpg9
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MSPHERE.00075-25
@@ -44,6 +46,7 @@
   date: '2025-06-25'
   link: https://doi.org/hcmphb
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MBIO.03916-24
@@ -58,6 +61,7 @@
   date: '2025-04-09'
   link: https://doi.org/hcmphc
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVAE239
@@ -72,6 +76,7 @@
   date: '2024-11-01'
   link: https://doi.org/hcmphd
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MBIO.03379-23
@@ -88,6 +93,7 @@
   date: '2024-03-13'
   link: https://doi.org/hcmphf
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/JOURNAL.PONE.0291688
@@ -102,6 +108,7 @@
   date: '2024-01-25'
   link: https://doi.org/hcmphg
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/JOURNAL.PONE.0315635
@@ -116,6 +123,7 @@
   date: '2024-12-09'
   link: https://doi.org/hcmphh
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVAE252
@@ -128,6 +136,7 @@
   date: '2024-11-21'
   link: https://doi.org/g97v5m
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVAD194
@@ -148,6 +157,7 @@
   date: '2023-10-26'
   link: https://doi.org/hcmphj
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.CELREP.2022.111263
@@ -164,6 +174,7 @@
   date: '2022-08-01'
   link: https://doi.org/hcmphk
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.15252/EMBJ.2022111839
@@ -182,6 +193,7 @@
   date: '2022-10-11'
   link: https://doi.org/g5385p
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.YMPEV.2022.107406
@@ -198,6 +210,7 @@
   date: '2022-04-01'
   link: https://doi.org/hcmphm
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3389/FMICB.2022.785502
@@ -213,6 +226,7 @@
   date: '2022-02-17'
   link: https://doi.org/hbhf9m
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1261/RNA.079134.122
@@ -227,6 +241,7 @@
   date: '2022-06-09'
   link: https://doi.org/hcmphn
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/JOURNAL.PGEN.1010239
@@ -240,6 +255,7 @@
   date: '2022-06-22'
   link: https://doi.org/hcmphp
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.YMPEV.2022.107546
@@ -261,6 +277,7 @@
   date: '2022-09-01'
   link: https://doi.org/hcmphq
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVAA185
@@ -277,6 +294,7 @@
   date: '2020-09-01'
   link: https://doi.org/g7m2p3
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/JEU.12788
@@ -292,6 +310,7 @@
   date: '2020-02-12'
   link: https://doi.org/ghxs7w
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/S00018-020-03555-2
@@ -304,6 +323,7 @@
   date: '2020-05-27'
   link: https://doi.org/hcmphr
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/NYAS.14108
@@ -315,6 +335,7 @@
   date: '2019-05-10'
   link: https://doi.org/gtnspz
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/MOLBEV/MSZ103
@@ -331,6 +352,7 @@
   date: '2019-05-07'
   link: https://doi.org/gj82q5
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MBIO.02524-19
@@ -346,6 +368,7 @@
   date: '2019-12-24'
   link: https://doi.org/hcmphs
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/MBIO.01836-17
@@ -359,6 +382,7 @@
   date: '2018-03-07'
   link: https://doi.org/hcmpht
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/JEU.12422
@@ -373,6 +397,7 @@
   date: '2017-06-07'
   link: https://doi.org/hcmphv
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVY133
@@ -388,6 +413,7 @@
   date: '2018-06-26'
   link: https://doi.org/hcmphw
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/GBE/EVW099
@@ -400,6 +426,7 @@
   date: '2016-04-29'
   link: https://doi.org/f8tm6n
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.YMPEV.2016.03.029
@@ -416,6 +443,7 @@
   date: '2016-06-01'
   link: https://doi.org/f8msbf
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.GDE.2015.10.005
@@ -427,6 +455,7 @@
   date: '2015-12-01'
   link: https://doi.org/f74zw9
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/JEU.12109
@@ -440,6 +469,7 @@
   date: '2014-04-29'
   link: https://doi.org/f522tn
   orcid: 0000-0002-7499-9369
+  "xyrus-maurer-alcal\xE1": true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
