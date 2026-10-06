@@ -5,6 +5,6 @@
 
   # AlcalaLab's Website
 
-  Visit **[alcalalab.github.io](https://alcalalab.github.io)** 🚀
+  Visit **[alcalalab.github.io/acalalab.github.io](https://alcalalab.github.io/acalalab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
