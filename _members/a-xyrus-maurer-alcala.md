@@ -1,11 +1,13 @@
 ---
 name: Xyrus X. Maurer-Alcalá
 image: images/photo.jpg
-role: principal-investigator
+role: pi
 group: active
 affiliation: William & Mary
 aliases:
   - Xyrus
+  - X. Maurer-Alcala
+  - X X Maurer-Alcala
 pronouns: he/him
 links:
   home-page: https://alcalalab.github.io

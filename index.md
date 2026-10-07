@@ -10,14 +10,12 @@ bench to bioinformatic analyses. We are located at [William & Mary](https://www.
 
 {% capture text %}
 
-We are interested in the evolutionary biology of eukaryotes, including the origins of eukaryotic
-features, how genome structure impacts evolutionary resilience, and the nature of new genes. We
-are also broadly interested in applying bioinformatics tools to explore these challenging datasets.
+We are passionate about the origins, evolution, and diversification of eukaryotes and their genomes. We combine dry and wet lab, spanning from experimental evolution, life history studies, genomics, phylogenetics and lots of bioinformatics.
 
 {%
   include button.html
-  link="projects"
-  text="Explore our projects"
+  link="research"
+  text="Our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,8 +26,8 @@ are also broadly interested in applying bioinformatics tools to explore these ch
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
@@ -54,7 +52,7 @@ A great way to learn about our work is to see what we’ve published. Browse or 
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
