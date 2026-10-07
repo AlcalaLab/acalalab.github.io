@@ -89,10 +89,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: thumbnail/Timmons_2024.png
+  image: thumbnail/Sterner_2024.png
   buttons:
   - type: pdf
-    link: pdf/Timmons_2024.pdf
+    link: pdf/Sterner_2024.pdf
 - id: doi:10.1128/MBIO.03379-23
   title: Foraminifera as a model of eukaryotic genome dynamism
   authors:
@@ -108,8 +108,12 @@
   link: https://doi.org/hcmphf
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: thumbnail/Timmons_2024.png
+  buttons:
+  - type: pdf
+    link: pdf/Timmons_2024.pdf
 - id: doi:10.1371/JOURNAL.PONE.0291688
   title: "Somatic genome architecture and molecular evolution are decoupled in \u201C\
     young\u201D linage-specific gene families in ciliates"
@@ -125,10 +129,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: thumbnail/Gyaltshen_2023.png
+  image: thumbnail/Maurer-Alcala_2024a.png
   buttons:
   - type: pdf
-    link: pdf/Gyaltshen_2023.pdf
+    link: pdf/Maurer-Alcala_2024a.pdf
 - id: doi:10.1093/GBE/EVAE252
   title: 'TIdeS: A Comprehensive Framework for Accurate Open Reading Frame Identification
     and Classification in Eukaryotic Transcriptomes'
@@ -165,8 +169,12 @@
   link: https://doi.org/hcmphj
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: thumbnail/Gyaltshen_2023.png
+  buttons:
+  - type: pdf
+    link: pdf/Gyaltshen_2023.pdf
 - id: doi:10.1016/J.CELREP.2022.111263
   title: A small RNA-guided PRC2 complex eliminates DNA as an extreme form of transposon
     silencing
@@ -228,7 +236,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: thumbnail/Ma_2022.png
+  image: thumbnail/Ma_2022.jpg
 - id: doi:10.3389/FMICB.2022.785502
   title: 'How Ciliated Protists Survive by Cysts: Some Key Points During Encystment
     and Excystment'
@@ -382,10 +390,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: thumbnail/Ceron-Romero_2019.png
+  image: thumbnail/Maurer-Alcala_2019.png
   buttons:
   - type: pdf
-    link: pdf/Ceron-Romero_2019.pdf
+    link: pdf/Maurer-Alcala_2019.pdf
 - id: doi:10.1093/MOLBEV/MSZ103
   title: 'PhyloToL: A Taxon/Gene-Rich Phylogenomic Pipeline to Explore Genome Evolution
     of Diverse Eukaryotes'
@@ -401,8 +409,12 @@
   link: https://doi.org/gj82q5
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: thumbnail/Ceron-Romero_2019.png
+  buttons:
+  - type: pdf
+    link: pdf/Ceron-Romero_2019.pdf
 - id: doi:10.1128/MBIO.02524-19
   title: Single-Cell Transcriptomics Reveal a Correlation between Genome Architecture
     and Gene Family Evolution in Ciliates
