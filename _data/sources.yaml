@@ -41,6 +41,86 @@
     - type: pdf
       link: pdf/Maurer-Alcala_2024a.pdf
 
+- id: doi:10.1371/JOURNAL.PONE.0291688
+  image: Gyaltshen_2023.png
+  buttons:
+    - type: pdf
+      link: pdf/Gyaltshen_2023.pdf
+
+- id: doi:10.15252/EMBJ.2022111839
+  image: Singh_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Singh_2022.pdf
+
+- id: doi:10.1016/J.YMPEV.2022.107546
+  image: Sierra_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Sierra_2022.pdf
+
+- id: doi:10.1016/J.CELREP.2022.111263
+  image: Wang_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Wang_2022.pdf
+
+- id: doi:10.1371/JOURNAL.PGEN.1010239
+  image: Cote-LHeureux_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Cote-LHeureux_2022.pdf
+
+- id: doi:10.1261/RNA.079134.122
+  image: Bechara_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Bechara_2022.pdf
+
+- id: doi:10.1016/J.YMPEV.2022.107406
+  image: Ma_2022.png
+
+- id: doi:10.3389/FMICB.2022.785502
+  image: Li_2022.png
+  buttons:
+    - type: pdf
+      link: pdf/Li_2022.pdf
+
+- id: doi:10.1093/GBE/EVAA185
+  image: Smith_2020.png
+  buttons:
+    - type: pdf
+      link: pdf/Smith_2020.pdf
+
+- id: doi:10.1007/S00018-020-03555-2
+  image: Rzeszutek_2020.png
+  buttons:
+    - type: pdf
+      link: pdf/Rzeszutek_2020.pdf
+
+- id: doi:10.1111/JEU.12788
+  image: Ribeiro_2020.png
+  buttons:
+    - type: pdf
+      link: pdf/Ribeiro_2020.pdf
+
+- id: doi:10.1128/MBIO.02524-19
+  image: Yan_2019.png
+  buttons:
+    - type: pdf
+      link: pdf/Yan_2019.pdf
+
+- id: doi:10.1111/NYAS.14108
+  image: Maurer-Alcala_2019.png
+  buttons:
+    - type: pdf
+      link: pdf/Maurer-Alcala_2019.pdf
+
+- id: doi:10.1111/NYAS.14108
+  image: Ceron-Romero_2019.png
+  buttons:
+    - type: pdf
+      link: pdf/Ceron-Romero_2019.pdf
 
 # Article Removals
 
