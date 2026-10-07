@@ -168,6 +168,11 @@ book:
   text: Book
   tooltip: Book
 
+pdf:
+  icon: fa-solid fa-newspaper
+  text: PDF
+  tooltip: PDF
+
 article:
   icon: fa-solid fa-newspaper
   text: Article
