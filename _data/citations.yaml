@@ -110,7 +110,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: thumbnail/Timmons_2024.png
+  image: thumbnail/Timmons_2024.jpg
   buttons:
   - type: pdf
     link: pdf/Timmons_2024.pdf
