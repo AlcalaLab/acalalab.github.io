@@ -1,7 +1,35 @@
 # Thumbnail/pdf additions
 - id: doi:10.1101/2025.03.26.645542
   image: thumbnail/Romero-Gutierrez_2026.jpg
+
 - id: doi:10.1016/J.PROTIS.2025.126115
   image: thumbnail/Jiang_2025.png
+
 - id: doi:10.1128/MSPHERE.00075-25
   image: Ahsan_2025.jpg
+  buttons:
+    - type: pdf
+      link: pdf/Ahsan_2025.pdf
+
+- id: doi:10.1128/MBIO.03916-24
+  image: Cote-LHeureux_2025.jpg
+  buttons:
+    - type: pdf
+      link: pdf/Cote-LHeureux_2025.pdf
+
+- id: doi:10.1093/GBE/EVAE252
+  image: Maurer-Alcala_2024.png
+  buttons:
+    - type: pdf
+      link: pdf/Maurer-Alcala_2024.pdf
+
+- id: doi:10.1093/GBE/EVAE239
+  image: Sterner_2024.png
+  buttons:
+    - type: pdf
+      link: pdf/Sterner_2024.pdf
+# Article Removals
+
+# remove correction for Somatic genome architecture and molecular evolution are decoupled in “young” linage-specific gene families in ciliates
+- id: doi:10.1371/JOURNAL.PONE.0315635
+  remove: true
