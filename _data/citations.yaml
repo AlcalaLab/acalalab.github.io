@@ -89,10 +89,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Sterner_2024.png
+  image: Timmons_2024.png
   buttons:
   - type: pdf
-    link: pdf/Sterner_2024.pdf
+    link: pdf/Timmons_2024.pdf
 - id: doi:10.1128/MBIO.03379-23
   title: Foraminifera as a model of eukaryotic genome dynamism
   authors:
@@ -123,8 +123,12 @@
   link: https://doi.org/hcmphg
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Maurer-Alcala_2024a.png
+  buttons:
+  - type: pdf
+    link: pdf/Maurer-Alcala_2024a.pdf
 - id: doi:10.1093/GBE/EVAE252
   title: 'TIdeS: A Comprehensive Framework for Accurate Open Reading Frame Identification
     and Classification in Eukaryotic Transcriptomes'
@@ -138,10 +142,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Maurer-Alcala_2024.png
+  image: Maurer-Alcala_2024b.png
   buttons:
   - type: pdf
-    link: pdf/Maurer-Alcala_2024.pdf
+    link: pdf/Maurer-Alcala_2024b.pdf
 - id: doi:10.1093/GBE/EVAD194
   title: "Long-Read\u2013Based Genome Assembly Reveals Numerous Endogenous Viral Elements\
     \ in the Green Algal Bacterivore <i>Cymbomonas tetramitiformis</i>"
