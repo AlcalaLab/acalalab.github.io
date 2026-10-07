@@ -51,7 +51,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Ahsan_2025.jpg
+  image: thumbnail/Ahsan_2025.jpg
   buttons:
   - type: pdf
     link: pdf/Ahsan_2025.pdf
@@ -70,7 +70,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Cote-LHeureux_2025.jpg
+  image: thumbnail/Cote-LHeureux_2025.jpg
   buttons:
   - type: pdf
     link: pdf/Cote-LHeureux_2025.pdf
@@ -89,7 +89,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Timmons_2024.png
+  image: thumbnail/Timmons_2024.png
   buttons:
   - type: pdf
     link: pdf/Timmons_2024.pdf
@@ -125,7 +125,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Gyaltshen_2023.png
+  image: thumbnail/Gyaltshen_2023.png
   buttons:
   - type: pdf
     link: pdf/Gyaltshen_2023.pdf
@@ -142,7 +142,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Maurer-Alcala_2024b.png
+  image: thumbnail/Maurer-Alcala_2024b.png
   buttons:
   - type: pdf
     link: pdf/Maurer-Alcala_2024b.pdf
@@ -184,7 +184,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Wang_2022.png
+  image: thumbnail/Wang_2022.png
   buttons:
   - type: pdf
     link: pdf/Wang_2022.pdf
@@ -207,7 +207,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Singh_2022.png
+  image: thumbnail/Singh_2022.png
   buttons:
   - type: pdf
     link: pdf/Singh_2022.pdf
@@ -228,7 +228,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Ma_2022.png
+  image: thumbnail/Ma_2022.png
 - id: doi:10.3389/FMICB.2022.785502
   title: 'How Ciliated Protists Survive by Cysts: Some Key Points During Encystment
     and Excystment'
@@ -245,7 +245,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Li_2022.png
+  image: thumbnail/Li_2022.png
   buttons:
   - type: pdf
     link: pdf/Li_2022.pdf
@@ -264,7 +264,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Bechara_2022.png
+  image: thumbnail/Bechara_2022.png
   buttons:
   - type: pdf
     link: pdf/Bechara_2022.pdf
@@ -282,7 +282,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Cote-LHeureux_2022.png
+  image: thumbnail/Cote-LHeureux_2022.png
   buttons:
   - type: pdf
     link: pdf/Cote-LHeureux_2022.pdf
@@ -308,7 +308,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Sierra_2022.png
+  image: thumbnail/Sierra_2022.png
   buttons:
   - type: pdf
     link: pdf/Sierra_2022.pdf
@@ -329,7 +329,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Smith_2020.png
+  image: thumbnail/Smith_2020.png
   buttons:
   - type: pdf
     link: pdf/Smith_2020.pdf
@@ -349,7 +349,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Ribeiro_2020.png
+  image: thumbnail/Ribeiro_2020.png
   buttons:
   - type: pdf
     link: pdf/Ribeiro_2020.pdf
@@ -366,7 +366,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Rzeszutek_2020.png
+  image: thumbnail/Rzeszutek_2020.png
   buttons:
   - type: pdf
     link: pdf/Rzeszutek_2020.pdf
@@ -382,7 +382,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Ceron-Romero_2019.png
+  image: thumbnail/Ceron-Romero_2019.png
   buttons:
   - type: pdf
     link: pdf/Ceron-Romero_2019.pdf
@@ -419,7 +419,7 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Yan_2019.png
+  image: thumbnail/Yan_2019.png
   buttons:
   - type: pdf
     link: pdf/Yan_2019.pdf
