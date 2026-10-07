@@ -17,7 +17,7 @@ You can find a selection and all our publications below. We are big fans of pre-
 
 {% include citation.html lookup="Lost in translation: conserved amino acid usage despite extreme codon bias in foraminifera" style="rich" %}
 
-{% include citation.html lookup="Somatic genome architecture and molecular evolution are decoupled in \u201C\young\u201D linage-specific gene families in ciliates" style="rich" %}
+{% include citation.html lookup="Somatic genome architecture and molecular evolution are decoupled in young linage-specific gene families in ciliates" style="rich" %}
 
 
 {% include section.html %}
