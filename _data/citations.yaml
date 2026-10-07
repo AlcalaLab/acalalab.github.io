@@ -125,10 +125,10 @@
   "xyrus-maurer-alcal\xE1": true
   plugin: sources.py
   file: sources.yaml
-  image: Maurer-Alcala_2024a.png
+  image: Gyaltshen_2023.png
   buttons:
   - type: pdf
-    link: pdf/Maurer-Alcala_2024a.pdf
+    link: pdf/Gyaltshen_2023.pdf
 - id: doi:10.1093/GBE/EVAE252
   title: 'TIdeS: A Comprehensive Framework for Accurate Open Reading Frame Identification
     and Classification in Eukaryotic Transcriptomes'
@@ -182,8 +182,12 @@
   link: https://doi.org/hcmphk
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Wang_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Wang_2022.pdf
 - id: doi:10.15252/EMBJ.2022111839
   title: "Chromatin remodeling is required for sRNA\u2010guided DNA elimination in\
     \ Paramecium"
@@ -201,8 +205,12 @@
   link: https://doi.org/g5385p
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Singh_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Singh_2022.pdf
 - id: doi:10.1016/J.YMPEV.2022.107406
   title: Deciphering phylogenetic relationships in class Karyorelictea (Protista,
     Ciliophora) based on updated multi-gene information with establishment of a new
@@ -218,8 +226,9 @@
   link: https://doi.org/hcmphm
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Ma_2022.png
 - id: doi:10.3389/FMICB.2022.785502
   title: 'How Ciliated Protists Survive by Cysts: Some Key Points During Encystment
     and Excystment'
@@ -234,8 +243,12 @@
   link: https://doi.org/hbhf9m
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Li_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Li_2022.pdf
 - id: doi:10.1261/RNA.079134.122
   title: Identification of novel, functional, long noncoding RNAs involved in programmed,
     large-scale genome rearrangements
@@ -249,8 +262,12 @@
   link: https://doi.org/hcmphn
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Bechara_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Bechara_2022.pdf
 - id: doi:10.1371/JOURNAL.PGEN.1010239
   title: 'Old genes in new places: A taxon-rich analysis of interdomain lateral gene
     transfer events'
@@ -263,8 +280,12 @@
   link: https://doi.org/hcmphp
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Cote-LHeureux_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Cote-LHeureux_2022.pdf
 - id: doi:10.1016/J.YMPEV.2022.107546
   title: Taxon-rich transcriptomics supports higher-level phylogeny and major evolutionary
     trends in Foraminifera
@@ -285,8 +306,12 @@
   link: https://doi.org/hcmphq
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Sierra_2022.png
+  buttons:
+  - type: pdf
+    link: pdf/Sierra_2022.pdf
 - id: doi:10.1093/GBE/EVAA185
   title: Combined Genome and Transcriptome Analyses of the Ciliate Schmidingerella
     arcuata (Spirotrichea) Reveal Patterns of DNA Elimination, Scrambling, and Inversion
@@ -302,8 +327,12 @@
   link: https://doi.org/g7m2p3
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Smith_2020.png
+  buttons:
+  - type: pdf
+    link: pdf/Smith_2020.pdf
 - id: doi:10.1111/JEU.12788
   title: "De novo Sequencing, Assembly, and Annotation of the Transcriptome for the\
     \ Free\u2010Living Testate Amoeba <i>Arcella intermedia</i>"
@@ -318,8 +347,12 @@
   link: https://doi.org/ghxs7w
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Ribeiro_2020.png
+  buttons:
+  - type: pdf
+    link: pdf/Ribeiro_2020.pdf
 - id: doi:10.1007/S00018-020-03555-2
   title: Programmed genome rearrangements in ciliates
   authors:
@@ -331,8 +364,12 @@
   link: https://doi.org/hcmphr
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Rzeszutek_2020.png
+  buttons:
+  - type: pdf
+    link: pdf/Rzeszutek_2020.pdf
 - id: doi:10.1111/NYAS.14108
   title: Evolutionary origins and impacts of genome architecture in ciliates
   authors:
@@ -343,8 +380,12 @@
   link: https://doi.org/gtnspz
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Ceron-Romero_2019.png
+  buttons:
+  - type: pdf
+    link: pdf/Ceron-Romero_2019.pdf
 - id: doi:10.1093/MOLBEV/MSZ103
   title: 'PhyloToL: A Taxon/Gene-Rich Phylogenomic Pipeline to Explore Genome Evolution
     of Diverse Eukaryotes'
@@ -376,8 +417,12 @@
   link: https://doi.org/hcmphs
   orcid: 0000-0002-7499-9369
   "xyrus-maurer-alcal\xE1": true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: Yan_2019.png
+  buttons:
+  - type: pdf
+    link: pdf/Yan_2019.pdf
 - id: doi:10.1128/MBIO.01836-17
   title: "Exploration of the Germline Genome of the Ciliate\n            <i>Chilodonella\
     \ uncinata</i>\n            through Single-Cell Omics (Transcriptomics and Genomics)"
