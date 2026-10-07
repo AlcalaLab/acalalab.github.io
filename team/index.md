@@ -15,12 +15,14 @@ If you're interested in joining this diverse and dynamic team, please reach out!
   text="Photos"
   link="/team/photos"
 %}
+<!--
 {%
   include button.html
   icon="fa-solid fa-people-group"
   text="Alumni"
   link="/team/alumni"
 %}
+-->
 {%
   include button.html
   icon="fa-solid fa-door-open"
@@ -30,8 +32,15 @@ If you're interested in joining this diverse and dynamic team, please reach out!
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% include list.html data="members" component="portrait" filters="group: active, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and group != 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+
+
+{% capture content %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
