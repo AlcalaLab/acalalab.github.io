@@ -5,12 +5,7 @@ role: principal-investigator
 group: active
 affiliation: William & Mary
 aliases:
-  - X.X. Maurer-Alcalá
-  - XX Maurer-Alcalá
-  - X.X. Maurer-Alcala
-  - XX Maurer-Alcala
-  - X.X. Alcala
-  - XX Alcala
+  - Xyrus
 pronouns: he/him
 links:
   home-page: https://alcalalab.github.io
