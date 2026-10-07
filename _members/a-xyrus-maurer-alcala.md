@@ -1,6 +1,6 @@
 ---
 name: Xyrus X. Maurer-Alcalá
-image: images/photo.jpg
+image: images/Xyrus_ByMeryn.png
 role: pi
 group: active
 affiliation: William & Mary
