@@ -3,7 +3,6 @@ name: Emily Hamp
 image: images/photo.jpg
 role: masters
 group: active
-affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:

@@ -29,7 +29,7 @@
     - type: pdf
       link: pdf/Sterner_2024.pdf
 
-- id: doi:10.1093/GBE/EVAE239
+- id: doi:10.1128/MBIO.03379-23
   image: thumbnail/Timmons_2024.png
   buttons:
     - type: pdf
@@ -41,7 +41,7 @@
     - type: pdf
       link: pdf/Maurer-Alcala_2024a.pdf
 
-- id: doi:10.1371/JOURNAL.PONE.0291688
+- id: doi:10.1093/GBE/EVAD194
   image: thumbnail/Gyaltshen_2023.png
   buttons:
     - type: pdf
@@ -78,7 +78,7 @@
       link: pdf/Bechara_2022.pdf
 
 - id: doi:10.1016/J.YMPEV.2022.107406
-  image: thumbnail/Ma_2022.png
+  image: thumbnail/Ma_2022.jpg
 
 - id: doi:10.3389/FMICB.2022.785502
   image: thumbnail/Li_2022.png
@@ -116,7 +116,7 @@
     - type: pdf
       link: pdf/Maurer-Alcala_2019.pdf
 
-- id: doi:10.1111/NYAS.14108
+- id: doi:10.1093/MOLBEV/MSZ103
   image: thumbnail/Ceron-Romero_2019.png
   buttons:
     - type: pdf

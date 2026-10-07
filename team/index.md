@@ -34,8 +34,4 @@ If you're interested in joining this diverse and dynamic team, please reach out!
 
 {% include list.html data="members" component="portrait" filters="group: active, role: ^(?!pi$)" %}
 
-{% capture content %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include section.html background="images/background.jpg" dark=true %}
