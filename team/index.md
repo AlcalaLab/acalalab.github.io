@@ -37,7 +37,7 @@ If you're interested in joining this diverse and dynamic team, please reach out!
 {% include list.html data="members" component="portrait" filter="role != 'pi' and group != 'alum'" %}
 
 
-{% include section.html background="images/WM.jpg" dark=true %}
+{% include section.html background="images/WM_Banner.png" dark=true %}
 
 Do you want to hear more?
 
