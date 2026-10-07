@@ -28,7 +28,7 @@ We are passionate about the origins, evolution, and diversification of eukaryote
   image="images/photo.jpg"
   link="research"
   title="Our Research"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}
